@@ -8,4 +8,4 @@ php artisan migrate --seed
 php artisan serve
 ```
 
-You can log in with `test@example` : `password` 
+You can log in with `test@example.com` : `password` 
